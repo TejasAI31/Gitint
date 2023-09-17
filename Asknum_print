@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class code_1
+class Asknum_print
 {
     static void main(String args)
     {
